@@ -3,8 +3,6 @@ import smtplib
 from email.utils import make_msgid
 
 
-email_address = "vishal@aaifinancials.com"
-email_password = "Vishal-2025"
 
 def send_email(to_email):
     msg = EmailMessage()
