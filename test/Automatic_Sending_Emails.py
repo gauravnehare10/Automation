@@ -9,10 +9,10 @@ from email.message import EmailMessage
 from email.utils import make_msgid
 
 # ================== CONFIG ==================
-EMAIL_ADDRESS = "vishal@aaifinancials.com"
-EMAIL_PASSWORD = "Vishal-2025"
-SMTP_SERVER = "smtp.hostinger.com"
-SMTP_PORT = 465
+EMAIL_ADDRESS = os.getenv("EMAIL_ADDRESS")
+EMAIL_PASSWORD = os.getenv("EMAIL_PASSWORD")
+SMTP_SERVER = os.getenv("SMTP_SERVER")
+SMTP_PORT = int(os.getenv("SMTP_PORT", 587))
 
 SENT_LOG = r"C:\Users\gaura\onedrive\documents\AnayaSD Solutions\Files\estate_agents_data\sent_emails.csv"
 SIGNATURE_PATH = r"C:\Users\gaura\OneDrive\Documents\AnayaSD Solutions\Files\estate_agents_data\signature.png"
