@@ -1,0 +1,147 @@
+2026-04-01 20:38:11,691 - WARNING - Skipped 16 invalid domains
+2026-04-01 20:38:13,544 - WARNING - Retry 1 failed for https://aitchisons.co.uk: HTTPSConnectionPool(host='aitchisons.co.uk', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1032)')))
+2026-04-01 20:38:14,616 - INFO - Scraped: thepropertyexperts.co.uk \u2192 nathaniel@thepropertyexperts.co.uk
+2026-04-01 20:38:14,958 - INFO - Scraped: northwooduk.com \u2192 Not Found
+2026-04-01 20:38:15,072 - INFO - Scraped: andrewmilsom.co.uk \u2192 Not Found
+2026-04-01 20:38:15,101 - INFO - Scraped: michaelanthonyestateagents.co.uk \u2192 bletchley@maea.co.uk
+2026-04-01 20:38:15,446 - WARNING - Retry 2 failed for https://aitchisons.co.uk: HTTPSConnectionPool(host='aitchisons.co.uk', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1032)')))
+2026-04-01 20:38:15,505 - WARNING - Retry 1 failed for https://brianfinn.co.uk: HTTPSConnectionPool(host='brianfinn.co.uk', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("HTTPSConnection(host='brianfinn.co.uk', port=443): Failed to resolve 'brianfinn.co.uk' ([Errno 11001] getaddrinfo failed)"))
+2026-04-01 20:38:15,812 - INFO - Scraped: bakersalesandlettings.com \u2192 nquiries@letting-genie.net
+2026-04-01 20:38:16,297 - INFO - Scraped: martinco.com \u2192 Not Found
+2026-04-01 20:38:16,310 - INFO - Scraped: paulkinghamlettings.com \u2192 contact@paulkinghamlettings.com
+2026-04-01 20:38:16,332 - WARNING - Retry 2 failed for https://brianfinn.co.uk: HTTPSConnectionPool(host='brianfinn.co.uk', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("HTTPSConnection(host='brianfinn.co.uk', port=443): Failed to resolve 'brianfinn.co.uk' ([Errno 11001] getaddrinfo failed)"))
+2026-04-01 20:38:17,154 - WARNING - Retry 3 failed for https://aitchisons.co.uk: HTTPSConnectionPool(host='aitchisons.co.uk', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1032)')))
+2026-04-01 20:38:17,154 - INFO - Scraped: aitchisons.co.uk \u2192 Not Found
+2026-04-01 20:38:17,162 - WARNING - Retry 1 failed for https://briggsandstone.co.uk: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2026-04-01 20:38:17,602 - WARNING - Retry 1 failed for https://cala.co.uk: HTTPSConnectionPool(host='cala.co.uk', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'cala.co.uk'. (_ssl.c:1032)")))
+2026-04-01 20:38:17,636 - WARNING - Retry 3 failed for https://brianfinn.co.uk: HTTPSConnectionPool(host='brianfinn.co.uk', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("HTTPSConnection(host='brianfinn.co.uk', port=443): Failed to resolve 'brianfinn.co.uk' ([Errno 11001] getaddrinfo failed)"))
+2026-04-01 20:38:17,637 - INFO - Scraped: brianfinn.co.uk \u2192 Not Found
+2026-04-01 20:38:17,785 - INFO - Scraped: castlesestateagents.co.uk \u2192 Not Found
+2026-04-01 20:38:17,852 - INFO - Scraped: searsandco.co.uk \u2192 Not Found
+2026-04-01 20:38:18,089 - INFO - Scraped: belvoir.co.uk \u2192 Not Found
+2026-04-01 20:38:18,668 - WARNING - Retry 2 failed for https://briggsandstone.co.uk: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2026-04-01 20:38:18,858 - INFO - Scraped: chilternproperty.com \u2192 slough@chilternproperty.com
+2026-04-01 20:38:19,406 - WARNING - Retry 2 failed for https://cala.co.uk: HTTPSConnectionPool(host='cala.co.uk', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'cala.co.uk'. (_ssl.c:1032)")))
+2026-04-01 20:38:20,261 - WARNING - Retry 3 failed for https://briggsandstone.co.uk: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2026-04-01 20:38:20,262 - INFO - Scraped: briggsandstone.co.uk \u2192 Not Found
+2026-04-01 20:38:20,979 - WARNING - Retry 1 failed for https://eden-property.co.uk: HTTPSConnectionPool(host='eden-property.co.uk', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1032)')))
+2026-04-01 20:38:21,211 - INFO - Scraped: chancellors.co.uk \u2192 Not Found
+2026-04-01 20:38:21,616 - INFO - Scraped: crendonhouse.com \u2192 Not Found
+2026-04-01 20:38:21,629 - WARNING - Retry 3 failed for https://cala.co.uk: HTTPSConnectionPool(host='cala.co.uk', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'cala.co.uk'. (_ssl.c:1032)")))
+2026-04-01 20:38:21,630 - INFO - Scraped: cala.co.uk \u2192 Not Found
+2026-04-01 20:38:21,634 - INFO - Scraped: daviddoyle.co.uk \u2192 charles@daviddoyle.co.uk
+2026-04-01 20:38:21,756 - INFO - Scraped: coopersestateagents.co.uk \u2192 Not Found
+2026-04-01 20:38:21,877 - INFO - Scraped: dnestates.co.uk \u2192 Not Found
+2026-04-01 20:38:22,271 - WARNING - Retry 1 failed for https://grants-lettings.co.uk: HTTPSConnectionPool(host='grants-lettings.co.uk', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("HTTPSConnection(host='grants-lettings.co.uk', port=443): Failed to resolve 'grants-lettings.co.uk' ([Errno 11001] getaddrinfo failed)"))
+2026-04-01 20:38:22,460 - WARNING - Retry 1 failed for https://habitation-lettings.co.uk: HTTPSConnectionPool(host='habitation-lettings.co.uk', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("HTTPSConnection(host='habitation-lettings.co.uk', port=443): Failed to resolve 'habitation-lettings.co.uk' ([Errno 11001] getaddrinfo failed)"))
+2026-04-01 20:38:22,542 - INFO - Scraped: connells.co.uk \u2192 Not Found
+2026-04-01 20:38:22,870 - WARNING - Retry 2 failed for https://grants-lettings.co.uk: HTTPSConnectionPool(host='grants-lettings.co.uk', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("HTTPSConnection(host='grants-lettings.co.uk', port=443): Failed to resolve 'grants-lettings.co.uk' ([Errno 11001] getaddrinfo failed)"))
+2026-04-01 20:38:23,098 - WARNING - Retry 2 failed for https://eden-property.co.uk: HTTPSConnectionPool(host='eden-property.co.uk', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1032)')))
+2026-04-01 20:38:23,699 - WARNING - Retry 2 failed for https://habitation-lettings.co.uk: HTTPSConnectionPool(host='habitation-lettings.co.uk', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("HTTPSConnection(host='habitation-lettings.co.uk', port=443): Failed to resolve 'habitation-lettings.co.uk' ([Errno 11001] getaddrinfo failed)"))
+2026-04-01 20:38:23,827 - WARNING - Retry 1 failed for https://hamiltonestates.co.uk: HTTPSConnectionPool(host='hamiltonestates.co.uk', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'hamiltonestates.co.uk'. (_ssl.c:1032)")))
+2026-04-01 20:38:23,851 - WARNING - Retry 1 failed for https://gatekeeper.co.uk: HTTPSConnectionPool(host='gatekeeper.co.uk', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1032)')))
+2026-04-01 20:38:24,095 - WARNING - Retry 3 failed for https://grants-lettings.co.uk: HTTPSConnectionPool(host='grants-lettings.co.uk', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("HTTPSConnection(host='grants-lettings.co.uk', port=443): Failed to resolve 'grants-lettings.co.uk' ([Errno 11001] getaddrinfo failed)"))
+2026-04-01 20:38:24,095 - INFO - Scraped: grants-lettings.co.uk \u2192 Not Found
+2026-04-01 20:38:24,303 - WARNING - Retry 3 failed for https://habitation-lettings.co.uk: HTTPSConnectionPool(host='habitation-lettings.co.uk', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("HTTPSConnection(host='habitation-lettings.co.uk', port=443): Failed to resolve 'habitation-lettings.co.uk' ([Errno 11001] getaddrinfo failed)"))
+2026-04-01 20:38:24,304 - INFO - Scraped: habitation-lettings.co.uk \u2192 Not Found
+2026-04-01 20:38:24,416 - INFO - Scraped: aubreyandfinn.co.uk \u2192 Not Found
+2026-04-01 20:38:24,930 - WARNING - Retry 3 failed for https://eden-property.co.uk: HTTPSConnectionPool(host='eden-property.co.uk', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1032)')))
+2026-04-01 20:38:24,931 - INFO - Scraped: eden-property.co.uk \u2192 Not Found
+2026-04-01 20:38:25,427 - WARNING - Retry 2 failed for https://hamiltonestates.co.uk: HTTPSConnectionPool(host='hamiltonestates.co.uk', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'hamiltonestates.co.uk'. (_ssl.c:1032)")))
+2026-04-01 20:38:25,792 - INFO - Scraped: haart.co.uk \u2192 Not Found
+2026-04-01 20:38:25,817 - INFO - Scraped: flaggs.co.uk \u2192 Not Found
+2026-04-01 20:38:25,844 - WARNING - Retry 2 failed for https://gatekeeper.co.uk: HTTPSConnectionPool(host='gatekeeper.co.uk', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1032)')))
+2026-04-01 20:38:26,419 - WARNING - Retry 1 failed for https://estateagentsisleofwight.com: HTTPSConnectionPool(host='estateagentsisleofwight.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("HTTPSConnection(host='estateagentsisleofwight.com', port=443): Failed to resolve 'estateagentsisleofwight.com' ([Errno 11001] getaddrinfo failed)"))
+2026-04-01 20:38:26,591 - WARNING - Retry 1 failed for https://homecountiesproperty.co.uk: HTTPSConnectionPool(host='homecountiesproperty.co.uk', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'homecountiesproperty.co.uk'. (_ssl.c:1032)")))
+2026-04-01 20:38:26,685 - INFO - Scraped: fineandcountry.com \u2192 Not Found
+2026-04-01 20:38:26,863 - INFO - Scraped: hmomanagement.agency \u2192 hmo@hmomanagement.agency
+2026-04-01 20:38:26,984 - WARNING - Retry 3 failed for https://hamiltonestates.co.uk: HTTPSConnectionPool(host='hamiltonestates.co.uk', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'hamiltonestates.co.uk'. (_ssl.c:1032)")))
+2026-04-01 20:38:26,985 - INFO - Scraped: hamiltonestates.co.uk \u2192 Not Found
+2026-04-01 20:38:27,366 - WARNING - Retry 2 failed for https://estateagentsisleofwight.com: HTTPSConnectionPool(host='estateagentsisleofwight.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("HTTPSConnection(host='estateagentsisleofwight.com', port=443): Failed to resolve 'estateagentsisleofwight.com' ([Errno 11001] getaddrinfo failed)"))
+2026-04-01 20:38:27,469 - WARNING - Retry 3 failed for https://gatekeeper.co.uk: HTTPSConnectionPool(host='gatekeeper.co.uk', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1032)')))
+2026-04-01 20:38:27,470 - INFO - Scraped: gatekeeper.co.uk \u2192 Not Found
+2026-04-01 20:38:28,386 - WARNING - Retry 2 failed for https://homecountiesproperty.co.uk: HTTPSConnectionPool(host='homecountiesproperty.co.uk', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'homecountiesproperty.co.uk'. (_ssl.c:1032)")))
+2026-04-01 20:38:28,605 - WARNING - Retry 3 failed for https://estateagentsisleofwight.com: HTTPSConnectionPool(host='estateagentsisleofwight.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("HTTPSConnection(host='estateagentsisleofwight.com', port=443): Failed to resolve 'estateagentsisleofwight.com' ([Errno 11001] getaddrinfo failed)"))
+2026-04-01 20:38:28,605 - INFO - Scraped: estateagentsisleofwight.com \u2192 Not Found
+2026-04-01 20:38:29,452 - INFO - Scraped: harrycharles.co.uk \u2192 info@harrycharles.co.uk
+2026-04-01 20:38:29,531 - INFO - Scraped: imagine-group.co.uk \u2192 Not Found
+2026-04-01 20:38:29,686 - INFO - Scraped: jeremyswan.co.uk \u2192 hello@jeremyswan.co.uk
+2026-04-01 20:38:29,917 - INFO - Scraped: hamptons.co.uk \u2192 Not Found
+2026-04-01 20:38:30,065 - INFO - Scraped: hursts.co.uk \u2192 wyc@hursts.co.uk
+2026-04-01 20:38:30,346 - WARNING - Retry 3 failed for https://homecountiesproperty.co.uk: HTTPSConnectionPool(host='homecountiesproperty.co.uk', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'homecountiesproperty.co.uk'. (_ssl.c:1032)")))
+2026-04-01 20:38:30,347 - INFO - Scraped: homecountiesproperty.co.uk \u2192 Not Found
+2026-04-01 20:38:31,294 - INFO - Scraped: keeganwhite.co.uk \u2192 Not Found
+2026-04-01 20:38:32,282 - INFO - Scraped: navigationestates.co.uk \u2192 Not Found
+2026-04-01 20:38:33,275 - INFO - Scraped: leaders.co.uk \u2192 Not Found
+2026-04-01 20:38:33,338 - WARNING - Retry 1 failed for https://hamlyn.co: HTTPSConnectionPool(host='hamlyn.co', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='hamlyn.co', port=443) at 0x1209c22e990>, 'Connection to hamlyn.co timed out. (connect timeout=10)'))
+2026-04-01 20:38:33,543 - WARNING - Retry 1 failed for https://orchidproperties.co.uk: HTTPSConnectionPool(host='orchidproperties.co.uk', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1032)')))
+2026-04-01 20:38:33,619 - INFO - Scraped: meadpropman.co.uk \u2192 lettings@meadproperty.uk
+2026-04-01 20:38:33,788 - INFO - Scraped: myonlineestateagent.com \u2192 Not Found
+2026-04-01 20:38:34,148 - INFO - Scraped: jacksonhowes.com \u2192 Not Found
+2026-04-01 20:38:34,773 - INFO - Scraped: nashpartnership.co.uk \u2192 hello@nashpartnership.co.uk
+2026-04-01 20:38:35,063 - INFO - Scraped: philipgreen.co.uk \u2192 Not Found
+2026-04-01 20:38:35,329 - INFO - Scraped: mortimersaylesbury.co.uk \u2192 Not Found
+2026-04-01 20:38:35,463 - WARNING - Retry 2 failed for https://orchidproperties.co.uk: HTTPSConnectionPool(host='orchidproperties.co.uk', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1032)')))
+2026-04-01 20:38:35,949 - INFO - Scraped: redkitehousing.org.uk \u2192 Not Found
+2026-04-01 20:38:36,186 - INFO - Scraped: openhouseestateagents.co.uk \u2192 info@localagent.co.uk
+2026-04-01 20:38:36,829 - WARNING - Retry 1 failed for https://suresaleonline.co.uk: HTTPSConnectionPool(host='suresaleonline.co.uk', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("HTTPSConnection(host='suresaleonline.co.uk', port=443): Failed to resolve 'suresaleonline.co.uk' ([Errno 11001] getaddrinfo failed)"))
+2026-04-01 20:38:36,940 - INFO - Scraped: ryeviewhomes.com \u2192 info@ryeviewhomes.com
+2026-04-01 20:38:37,035 - WARNING - Retry 3 failed for https://orchidproperties.co.uk: HTTPSConnectionPool(host='orchidproperties.co.uk', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1032)')))
+2026-04-01 20:38:37,035 - INFO - Scraped: orchidproperties.co.uk \u2192 Not Found
+2026-04-01 20:38:37,149 - WARNING - Retry 1 failed for https://spacelettings.co.uk: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2026-04-01 20:38:37,297 - INFO - Scraped: surepropertygroup.co.uk \u2192 Not Found
+2026-04-01 20:38:37,478 - INFO - Scraped: surelet.co.uk \u2192 Not Found
+2026-04-01 20:38:37,600 - WARNING - Retry 2 failed for https://suresaleonline.co.uk: HTTPSConnectionPool(host='suresaleonline.co.uk', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("HTTPSConnection(host='suresaleonline.co.uk', port=443): Failed to resolve 'suresaleonline.co.uk' ([Errno 11001] getaddrinfo failed)"))
+2026-04-01 20:38:38,263 - WARNING - Retry 1 failed for https://taitstestates.co.uk: HTTPSConnectionPool(host='taitstestates.co.uk', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("HTTPSConnection(host='taitstestates.co.uk', port=443): Failed to resolve 'taitstestates.co.uk' ([Errno 11001] getaddrinfo failed)"))
+2026-04-01 20:38:38,446 - INFO - Scraped: robertsonsestateagents.co.uk \u2192 flackwellheath@robertsonsestateagents.co.uk
+2026-04-01 20:38:39,093 - WARNING - Retry 3 failed for https://suresaleonline.co.uk: HTTPSConnectionPool(host='suresaleonline.co.uk', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("HTTPSConnection(host='suresaleonline.co.uk', port=443): Failed to resolve 'suresaleonline.co.uk' ([Errno 11001] getaddrinfo failed)"))
+2026-04-01 20:38:39,093 - INFO - Scraped: suresaleonline.co.uk \u2192 Not Found
+2026-04-01 20:38:39,159 - INFO - Scraped: romans.co.uk \u2192 Not Found
+2026-04-01 20:38:39,174 - WARNING - Retry 2 failed for https://taitstestates.co.uk: HTTPSConnectionPool(host='taitstestates.co.uk', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("HTTPSConnection(host='taitstestates.co.uk', port=443): Failed to resolve 'taitstestates.co.uk' ([Errno 11001] getaddrinfo failed)"))
+2026-04-01 20:38:39,355 - WARNING - Retry 2 failed for https://spacelettings.co.uk: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2026-04-01 20:38:39,794 - WARNING - Retry 3 failed for https://taitstestates.co.uk: HTTPSConnectionPool(host='taitstestates.co.uk', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("HTTPSConnection(host='taitstestates.co.uk', port=443): Failed to resolve 'taitstestates.co.uk' ([Errno 11001] getaddrinfo failed)"))
+2026-04-01 20:38:39,794 - INFO - Scraped: taitstestates.co.uk \u2192 Not Found
+2026-04-01 20:38:40,906 - INFO - Scraped: stuppleschandlergarvey.com \u2192 info@chandlergarvey.com
+2026-04-01 20:38:41,133 - WARNING - Retry 3 failed for https://spacelettings.co.uk: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2026-04-01 20:38:41,133 - INFO - Scraped: spacelettings.co.uk \u2192 Not Found
+2026-04-01 20:38:41,508 - WARNING - Retry 1 failed for https://thompsonwilsonlettings.co.uk: HTTPSConnectionPool(host='thompsonwilsonlettings.co.uk', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'thompsonwilsonlettings.co.uk'. (_ssl.c:1032)")))
+2026-04-01 20:38:41,644 - WARNING - Retry 1 failed for https://vendors-direct.co.uk: HTTPSConnectionPool(host='vendors-direct.co.uk', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("HTTPSConnection(host='vendors-direct.co.uk', port=443): Failed to resolve 'vendors-direct.co.uk' ([Errno 11001] getaddrinfo failed)"))
+2026-04-01 20:38:41,692 - INFO - Scraped: frostweb.co.uk \u2192 Not Found
+2026-04-01 20:38:42,033 - WARNING - Retry 1 failed for https://wallingtonhomes.co.uk: HTTPSConnectionPool(host='wallingtonhomes.co.uk', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("HTTPSConnection(host='wallingtonhomes.co.uk', port=443): Failed to resolve 'wallingtonhomes.co.uk' ([Errno 11001] getaddrinfo failed)"))
+2026-04-01 20:38:42,806 - WARNING - Retry 2 failed for https://vendors-direct.co.uk: HTTPSConnectionPool(host='vendors-direct.co.uk', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("HTTPSConnection(host='vendors-direct.co.uk', port=443): Failed to resolve 'vendors-direct.co.uk' ([Errno 11001] getaddrinfo failed)"))
+2026-04-01 20:38:43,024 - INFO - Scraped: jnp.co.uk \u2192 Not Found
+2026-04-01 20:38:43,223 - WARNING - Retry 2 failed for https://wallingtonhomes.co.uk: HTTPSConnectionPool(host='wallingtonhomes.co.uk', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("HTTPSConnection(host='wallingtonhomes.co.uk', port=443): Failed to resolve 'wallingtonhomes.co.uk' ([Errno 11001] getaddrinfo failed)"))
+2026-04-01 20:38:43,670 - INFO - Scraped: thompsonwilson.co.uk \u2192 Not Found
+2026-04-01 20:38:43,683 - WARNING - Retry 1 failed for https://woodmanandpartners.co.uk: HTTPSConnectionPool(host='woodmanandpartners.co.uk', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("HTTPSConnection(host='woodmanandpartners.co.uk', port=443): Failed to resolve 'woodmanandpartners.co.uk' ([Errno 11001] getaddrinfo failed)"))
+2026-04-01 20:38:43,711 - WARNING - Retry 2 failed for https://thompsonwilsonlettings.co.uk: HTTPSConnectionPool(host='thompsonwilsonlettings.co.uk', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'thompsonwilsonlettings.co.uk'. (_ssl.c:1032)")))
+2026-04-01 20:38:44,014 - INFO - Scraped: taylorsestateagents.co.uk \u2192 Not Found
+2026-04-01 20:38:44,172 - WARNING - Retry 3 failed for https://vendors-direct.co.uk: HTTPSConnectionPool(host='vendors-direct.co.uk', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("HTTPSConnection(host='vendors-direct.co.uk', port=443): Failed to resolve 'vendors-direct.co.uk' ([Errno 11001] getaddrinfo failed)"))
+2026-04-01 20:38:44,172 - INFO - Scraped: vendors-direct.co.uk \u2192 Not Found
+2026-04-01 20:38:44,176 - WARNING - Retry 2 failed for https://hamlyn.co: HTTPSConnectionPool(host='hamlyn.co', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='hamlyn.co', port=443) at 0x1209c19f250>, 'Connection to hamlyn.co timed out. (connect timeout=10)'))
+2026-04-01 20:38:44,460 - INFO - Scraped: timruss.co.uk \u2192 Not Found
+2026-04-01 20:38:44,564 - WARNING - Retry 3 failed for https://wallingtonhomes.co.uk: HTTPSConnectionPool(host='wallingtonhomes.co.uk', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("HTTPSConnection(host='wallingtonhomes.co.uk', port=443): Failed to resolve 'wallingtonhomes.co.uk' ([Errno 11001] getaddrinfo failed)"))
+2026-04-01 20:38:44,564 - INFO - Scraped: wallingtonhomes.co.uk \u2192 Not Found
+2026-04-01 20:38:44,723 - INFO - Scraped: taylorwimpey.co.uk \u2192 Not Found
+2026-04-01 20:38:44,878 - WARNING - Retry 2 failed for https://woodmanandpartners.co.uk: HTTPSConnectionPool(host='woodmanandpartners.co.uk', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("HTTPSConnection(host='woodmanandpartners.co.uk', port=443): Failed to resolve 'woodmanandpartners.co.uk' ([Errno 11001] getaddrinfo failed)"))
+2026-04-01 20:38:45,323 - INFO - Scraped: wesoldit.co.uk \u2192 hello@wesoldit.co.uk
+2026-04-01 20:38:45,704 - WARNING - Retry 3 failed for https://woodmanandpartners.co.uk: HTTPSConnectionPool(host='woodmanandpartners.co.uk', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("HTTPSConnection(host='woodmanandpartners.co.uk', port=443): Failed to resolve 'woodmanandpartners.co.uk' ([Errno 11001] getaddrinfo failed)"))
+2026-04-01 20:38:45,704 - INFO - Scraped: woodmanandpartners.co.uk \u2192 Not Found
+2026-04-01 20:38:45,794 - WARNING - Retry 1 failed for https://wycombeletting.co.uk: HTTPSConnectionPool(host='wycombeletting.co.uk', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1032)')))
+2026-04-01 20:38:45,836 - WARNING - Retry 3 failed for https://thompsonwilsonlettings.co.uk: HTTPSConnectionPool(host='thompsonwilsonlettings.co.uk', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'thompsonwilsonlettings.co.uk'. (_ssl.c:1032)")))
+2026-04-01 20:38:45,836 - INFO - Scraped: thompsonwilsonlettings.co.uk \u2192 Not Found
+2026-04-01 20:38:46,097 - INFO - Scraped: wyeres.co.uk \u2192 Not Found
+2026-04-01 20:38:46,522 - WARNING - Retry 1 failed for https://wwe.co.uk: HTTPSConnectionPool(host='wwe.co.uk', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'wwe.co.uk'. (_ssl.c:1032)")))
+2026-04-01 20:38:46,543 - WARNING - Retry 1 failed for https://wycrent.org.uk: HTTPSConnectionPool(host='wycrent.org.uk', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'wycrent.org.uk'. (_ssl.c:1032)")))
+2026-04-01 20:38:47,071 - WARNING - Retry 2 failed for https://wycombeletting.co.uk: HTTPSConnectionPool(host='wycombeletting.co.uk', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1032)')))
+2026-04-01 20:38:48,464 - WARNING - Retry 2 failed for https://wwe.co.uk: HTTPSConnectionPool(host='wwe.co.uk', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'wwe.co.uk'. (_ssl.c:1032)")))
+2026-04-01 20:38:48,700 - WARNING - Retry 2 failed for https://wycrent.org.uk: HTTPSConnectionPool(host='wycrent.org.uk', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'wycrent.org.uk'. (_ssl.c:1032)")))
+2026-04-01 20:38:48,770 - WARNING - Retry 3 failed for https://wycombeletting.co.uk: HTTPSConnectionPool(host='wycombeletting.co.uk', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1032)')))
+2026-04-01 20:38:48,770 - INFO - Scraped: wycombeletting.co.uk \u2192 Not Found
+2026-04-01 20:38:49,228 - INFO - Scraped: your-move.co.uk \u2192 Not Found
+2026-04-01 20:38:50,419 - WARNING - Retry 3 failed for https://wycrent.org.uk: HTTPSConnectionPool(host='wycrent.org.uk', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'wycrent.org.uk'. (_ssl.c:1032)")))
+2026-04-01 20:38:50,420 - INFO - Scraped: wycrent.org.uk \u2192 Not Found
+2026-04-01 20:38:50,431 - WARNING - Retry 3 failed for https://wwe.co.uk: HTTPSConnectionPool(host='wwe.co.uk', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'wwe.co.uk'. (_ssl.c:1032)")))
+2026-04-01 20:38:50,431 - INFO - Scraped: wwe.co.uk \u2192 Not Found
+2026-04-01 20:38:55,080 - WARNING - Retry 3 failed for https://hamlyn.co: HTTPSConnectionPool(host='hamlyn.co', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='hamlyn.co', port=443) at 0x1209c22efd0>, 'Connection to hamlyn.co timed out. (connect timeout=10)'))
+2026-04-01 20:38:55,080 - INFO - Scraped: hamlyn.co \u2192 Not Found
+2026-04-01 20:38:55,109 - INFO - Process completed successfully.
